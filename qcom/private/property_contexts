@@ -1,2 +1,4 @@
 # FM
 hw.fm.                                  u:object_r:exported3_system_prop:s0
+ro.vendor.camera.res.fmq.size           u:object_r:camera_prop:s0
+ro.vendor.camera.req.fmq.size           u:object_r:camera_prop:s0
